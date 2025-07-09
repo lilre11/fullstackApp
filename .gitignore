@@ -1,0 +1,27 @@
+# Node.js modülleri
+node_modules/
+# Sanal ortamlar
+venv/
+env/
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# Ortam dosyaları
+.env
+
+# Veritabanı dosyaları
+*.sqlite3
+*.db
+
+# Jupyter notebook checkpoint'leri
+.ipynb_checkpoints/
+
+# Log dosyaları
+*.log
